@@ -1,0 +1,8 @@
+name: GlobalChat
+main: TheNote\GlobalChat\Main
+version: 1.0.0
+api:
+  - 3.9.0
+author: TheNote
+
+description: GlobalChat Beta
